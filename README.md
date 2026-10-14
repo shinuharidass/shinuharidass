@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Shinu 👋
 
-<!--
-**shinuharidass/shinuharidass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior full-stack engineer with 18+ years building business applications end to end — finance, payroll, and AI-integrated workflows.
 
-Here are some ideas to get you started:
+- 🔧 **Primary:** PHP 8, CodeIgniter 3, Laravel, Filament, MySQL, REST APIs
+- 🧩 **Working knowledge:** Node.js, Python (FastAPI)
+- 🔗 **Integrations:** NetSuite, PrismHR, QuickBooks Online, Authorize.net, Twilio WhatsApp, Claude API, MCP
+- ☁️ **Cloud:** AWS (Lightsail, S3, SES), Apache, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I've built recently
+- **[Olira Fireworks](https://olirafireworks.com)** — Laravel + Filament e-commerce store, live and taking orders
+- **[Trackfi](https://trackfi.malloraa.com)** — price tracker with an AI shopping advisor on WhatsApp (Laravel, FastAPI, Claude API)
+- **Beacon** — private stock-analysis tool with watchlists, alerts and an AI daily digest (in progress)
+
+Most of my work is client and commercial code, so repositories are private. Happy to walk through any of it in an interview.
+
+📫 [shinuharidass.com](https://shinuharidass.com) · shinu.ooty@gmail.com · Open to remote roles
