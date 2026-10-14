@@ -14,4 +14,4 @@ Senior full-stack engineer with 18+ years building business applications end to 
 
 Most of my work is client and commercial code, so repositories are private. Happy to walk through any of it in an interview.
 
-📫 [shinuharidass.com](https://shinuharidass.com) · shinu.ooty@gmail.com · Open to remote roles
+📫 📫 [shinuharidass.com](https://shinuharidass.com) · [LinkedIn](https://www.linkedin.com/in/shinu-haridass) · shinu.ooty@gmail.com · Open to remote roles
